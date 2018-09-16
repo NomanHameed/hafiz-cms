@@ -1,0 +1,15 @@
+{
+    "name": "noman/hafiz1",
+    "require": {
+        "illuminate/database": "^5.5"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Models\\":"src/Models",
+            "Controllers\\":"src/Controllers"
+
+        }
+    }
+}
+
